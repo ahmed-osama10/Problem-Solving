@@ -27,6 +27,6 @@ class Main
 		int[] nums = { 8, 7, 2, 5, 3, 1 };
 		int target = 10;
 
-		findPair(nums, target);
+		findPair(nums, target); 
 	}
 }
