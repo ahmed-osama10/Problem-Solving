@@ -29,7 +29,7 @@ int main(void)
 
 	int n = sizeof(nums)/sizeof(nums[0]);
 
-	findPair(nums, n, target);
+	findPair(nums, n, target); 
 
 	return 0;
 }
